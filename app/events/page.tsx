@@ -1,3 +1,5 @@
+
+
 import type { Metadata } from "next"
 import { EventsHero } from "@/components/events/events-hero"
 import { EventsFilter } from "@/components/events/events-filter"
@@ -9,6 +11,7 @@ export const metadata: Metadata = {
   description:
     "Stay connected with upcoming church events, community gatherings, and special services. Find something for everyone.",
 }
+
 
 export default function EventsPage() {
   return (
