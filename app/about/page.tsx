@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description: "Learn about our mission, history, leadership team, and beliefs at Grace Community Church.",
 }
 
+
 export default function AboutPage() {
   return (
     <div className="flex flex-col">
